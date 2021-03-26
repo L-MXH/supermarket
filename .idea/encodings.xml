@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/archives/InsertDeptFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/archives/InsertJoinDepotFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/dao/FeelDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/dao/GetConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/dao/JoinDepotDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/dao/OutDepotDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/main/BackgroundPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/main/Enter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/mainFrame/RemoveButtonFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/panel/MyJPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/panel/OutDepotPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/panel/PersonnelPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/util/Session.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/supermarket/widget/BGPanel.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
